@@ -124,5 +124,5 @@ Tested on Python 2.7, 3.5, 3.6
 * Download: https://pypi.python.org/pypi/Icics
 * Documentation: https://github.com/DataXujing/Icics
 
-you can log in Xujing's home page: https://dataxujing.coding.me or https://dataxujing.github.io to learn more.
+you can log in Xujing's home page: https://icics-doc.readthedocs.io/en/latest/ or https://dataxujing.github.io to learn more.
 
